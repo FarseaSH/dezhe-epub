@@ -8,10 +8,18 @@
 
 ### 2021年
 
+2021年上半年
+
 - [读者（2021年第1期）](https://github.com/FarseaSH/dezhe-epub/blob/master/issues/2021/读者（2021年第1期）.epub)
 - [读者（2021年第2期）](https://github.com/FarseaSH/dezhe-epub/blob/master/issues/2021/读者（2021年第2期）.epub)
 - [读者（2021年第3期）](https://github.com/FarseaSH/dezhe-epub/blob/master/issues/2021/读者（2021年第3期）.epub)
 - [读者（2021年第4期）](https://github.com/FarseaSH/dezhe-epub/blob/master/issues/2021/读者（2021年第4期）.epub)
 - [读者（2021年第5期）](https://github.com/FarseaSH/dezhe-epub/blob/master/issues/2021/读者（2021年第5期）.epub)
 - [读者（2021年第6期）](https://github.com/FarseaSH/dezhe-epub/blob/master/issues/2021/读者（2021年第6期）.epub)
+- [读者（2021年第7期）](https://github.com/FarseaSH/dezhe-epub/blob/master/issues/2021/读者（2021年第7期）.epub)
+- [读者（2021年第8期）](https://github.com/FarseaSH/dezhe-epub/blob/master/issues/2021/读者（2021年第8期）.epub)
+- [读者（2021年第9期）](https://github.com/FarseaSH/dezhe-epub/blob/master/issues/2021/读者（2021年第9期）.epub)
+- [读者（2021年第10期）](https://github.com/FarseaSH/dezhe-epub/blob/master/issues/2021/读者（2021年第10期）.epub)
+- [读者（2021年第11期）](https://github.com/FarseaSH/dezhe-epub/blob/master/issues/2021/读者（2021年第11期）.epub)
+- [读者（2021年第12期）](https://github.com/FarseaSH/dezhe-epub/blob/master/issues/2021/读者（2021年第12期）.epub)
 
